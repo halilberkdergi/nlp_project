@@ -1,2 +1,0 @@
-# nlp_project
-A_NLP_AdaptifOynatmaHizi
